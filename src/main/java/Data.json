@@ -1,0 +1,57 @@
+{
+    "first_name": "Meng",
+    "last_name": "Lyu",
+    "email": "mlyu5@dons.usfca.edu",
+    "prefix": "1",
+    "phone_number": "4155190191",
+    "street_address": "806 46th Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "state": "California",
+    "summary": "Good!",
+    "experience": [
+      {
+        "company_name": "Small company",
+        "job_title": "Intern",
+        "job_start_date": "2021-05-08T09:23:02.656Z",
+        "job_end_date": "2021-05-07T09:23:04.998Z",
+        "responsibilities": "Intern"
+      },
+      {
+        "company_name": "Big company",
+        "job_title": "Intern",
+        "job_start_date": "2021-05-01T09:29:49.055Z",
+        "job_end_date": "2021-05-08T09:29:51.103Z",
+        "responsibilities": "Intern"
+      }
+    ],
+    "edu": [
+      {
+        "school_name": "University of San Francisco",
+        "school_website": "https://usfcas.usfca.edu",
+        "major": "Test",
+        "degree": "Master's degree",
+        "grad_year": "2021",
+        "school_end_date": "2021-05-22T23:03:34.654Z",
+        "current_school": true,
+        "description": "Student"
+      }
+    ],
+    "skills": [
+      {
+        "skill_name": "java",
+        "skill_level": "expert"
+      },
+      {
+        "skill_name": "python",
+        "skill_level": "intermediate"
+      }
+    ],
+    "projects": [
+      {
+        "project_name": "My-Project-Portfolio",
+        "project_link": "https://github.com/My-Project-Portfolio",
+        "project_description": "My-Project-Portfolio"
+      }
+    ]
+  }
